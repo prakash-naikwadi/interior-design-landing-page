@@ -1,10 +1,10 @@
-## ⭐ HTML CSS Template Project 08 ⭐
+## ⭐ Interior Design Landing Page Project 10 ⭐
 
 This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/html-css-live-class-project-08/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.github.io/interior-design-landing-page/">**Visit Now** 🚀</a>
 
 <br>
 
@@ -25,12 +25,12 @@ This is a assignment given in **"JavaScript Full Stack Web Developer Bootcamp"**
 
 - I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
 - This project is given us as assignment.
-- It took me about **3 hours** to complete this project.
+- It took me about **2 hours** to complete this project.
 
 ## 📌 What I Learn
 
-👉 Learn how to use `linear-gradient` and apply gradient on buttons.  
-👉 How to place images in proper places using positions.  
+👉 Learn how to position elements properly at places.  
+👉 How to make different shapes and place them correctly.  
 👉 Achieve some responsiveness using FlexBox & used rem unit.
 
 ## 📬 Connect With Me
